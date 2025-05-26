@@ -1,4 +1,4 @@
-/**
+/**TÍTULO:VALIDAR BANDEIRA CARTÃO DE CRÉDITO
  * Valida a bandeira do cartão de crédito com base no número informado.
  * Suporta Visa, MasterCard, American Express, Elo, Hipercard, Discover, Diners Club, EnRoute, JCB, Aura e Voyage.
  * @param {string} cardNumber - Número do cartão de crédito (apenas dígitos).
