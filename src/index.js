@@ -29,6 +29,9 @@ function validarBandeiraCartao(cardNumber) {
     return null;
 }
 
-// Exemplo de uso:
+// Exemplo de uso
+
 // console.log(validarBandeiraCartao('4111111111111111')); // Visa
 // console.log(validarBandeiraCartao('5500000000000004')); // MasterCard
+// console.log(validarBandeiraCartao('30569309025904'));   // Diners Club
+// console.log(validarBandeiraCartao('201400000000009'));  // EnRoute
